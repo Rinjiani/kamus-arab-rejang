@@ -29,7 +29,7 @@ const kosakata = [
     kalimat: {
       arab: "الْخَطُّ الْكَاغَانْغَا هُوَ تُرَاثٌ ثَقَافِيٌّ لِشَعْبِ رِيجَانْغ",
       indo: "Aksara Kaganga adalah warisan budaya suku Rejang yang harus kita lestarikan.",
-      rejang: "Aksara ulu adalah warisan nenek moyang kita yang perlu dijaga."
+      rejang: "Huruf Kaganga warisan budayo sukeu jang dik harus ite jago."
     }
   },
   {
@@ -43,7 +43,7 @@ const kosakata = [
     kalimat: {
       arab: "كَاغَانْغَا هُوَ اسْمٌ لِحُرُوفِ رِيجَانْغ الْتَّقْلِيدِيَّة",
       indo: "Kaganga adalah nama sistem huruf tradisional masyarakat Rejang.",
-      rejang: "Kaganga adalah pangilan untuk huruf-huruf leluhur kita."
+      rejang: "Kaganga huruf tradisional tun ite jang."
     }
   },
   {
@@ -57,7 +57,7 @@ const kosakata = [
     kalimat: {
       arab: "الْوَلَدُ يَلْعَبُ فِي الْحَدِيقَة",
       indo: "Anak itu bermain di halaman rumah.",
-      rejang: "Anok tibo bemain di halaman umea'."
+      rejang: "Titik o busik nak adep umea’."
     }
   },
   {
@@ -71,7 +71,7 @@ const kosakata = [
     kalimat: {
       arab: "الْيَتِيمُ يَحْتَاجُ إِلَى رِعَايَةِ الْمُجْتَمَع",
       indo: "Anak yatim piatu perlu mendapat perhatian dan kasih sayang dari masyarakat.",
-      rejang: "Anok lumang perlu dirawat sama-sama masyarakat."
+      rejang: "Anok lumang perlu dapet perhatian ngen kasih sayang kunai tun deu."
     }
   },
   {
@@ -85,7 +85,7 @@ const kosakata = [
     kalimat: {
       arab: "فِي الثَّقَافَةِ الْقَدِيمَةِ، يُعْتَقَدُ أَنَّ بَعْضَ الأَطْفَالِ لَهُمْ نَسَبٌ إِلَهِيٌّ",
       indo: "Dalam kepercayaan lama, beberapa anak diyakini memiliki keturunan dari dewa.",
-      rejang: "Dalam kepercayaan tuo, anok-anok tibo punya keturunan dewo."
+      rejang: "nak lem ilmeu an, ade pa’o tun titik keturunan diwo."
     }
   },
   {
@@ -99,7 +99,7 @@ const kosakata = [
     kalimat: {
       arab: "هُوَ وَحِيدٌ فِي عَائِلَتِه",
       indo: "Dia adalah anak tunggal dalam keluarganya.",
-      rejang: "Dia anok temanang di keluarga biok."
+      rejang: "si o anok temanang imeu/anok su’ang nak lem keluargo ne."
     }
   },
   {
@@ -113,7 +113,7 @@ const kosakata = [
     kalimat: {
       arab: "صِهْرِي رَجُلٌ طَيِّبٌ وَمُحْتَرَمٌ",
       indo: "Saudara ipar saya adalah orang yang baik dan dihormati.",
-      rejang: "Be'eng uku kunak nyapu baik dan dikamayan."
+      rejang: "Be'eng ku baik atei ngen nego tun."
     }
   },
   {
@@ -127,7 +127,7 @@ const kosakata = [
     kalimat: {
       arab: "نَقُولُ تَحِيَّةً لِلضُّيُوفِ عِنْدَ وُصُولِهِم",
       indo: "Kita mengucapkan sapaan kepada tamu yang datang.",
-      rejang: "Kito ngece' bieu kapade rung tukang datang."
+      rejang: "ite mbaso bieu tamu dik teko."
     }
   },
   {
@@ -139,9 +139,9 @@ const kosakata = [
     gambar: "",
     budaya: "'Bung' adalah sapaan untuk laki-laki muda yang umum digunakan oleh masyarakat Rejang. Penggunaan sapaan yang tepat menunjukkan penghormatan terhadap tatanan sosial dalam masyarakat adat.",
     kalimat: {
-      arab: "نُنَادِي الشَّابَّ بِكَلِمَةِ بُونْغ",
-      indo: "Kita memanggil laki-laki muda dengan sapaan bung.",
-      rejang: "Kito nganyau laki-laki bujang make bung."
+      arab: "وَجَّهَ الرَّجُلُ الْعَجُوزُ نَصِيحَةً إِلَى الْوَلَدِ الشَّابِّ: لَا تَكُنْ كَذَلِكَ!",
+      indo: "Orang tua itu memberi himbauan kepada anak laki-laki muda itu, ”jangan seperti itu!”.",
+      rejang: "Tun tuwei o madeak magea sebong o, "dami ce’o, soak!"."
     }
   },
   {
@@ -155,7 +155,7 @@ const kosakata = [
     kalimat: {
       arab: "الْوَقَاحَةُ أَمَامَ الْكِبَارِ مَنْهِيٌّ عَنْهَا فِي الثَّقَافَةِ الرِّيجَانْغِيَّة",
       indo: "Sikap kurang ajar kepada orang yang lebih tua sangat dilarang dalam budaya Rejang.",
-      rejang: "Cempalo bebea kapade tueui sangat talarang dalam adat Rejang."
+      rejang: "Cempalo bebea ngen tun tuwei o ca buleak nak lem adat jang."
     }
   },
   {
@@ -169,7 +169,7 @@ const kosakata = [
     kalimat: {
       arab: "تَكَلَّمَ الْمُعَلِّمُ بِصَوْتٍ وَاضِح",
       indo: "Guru berkata dengan suara yang jelas.",
-      rejang: "Guru kece' make suara terang."
+      rejang: "Gureu miling sa’ei lek."
     }
   },
   {
@@ -183,7 +183,7 @@ const kosakata = [
     kalimat: {
       arab: "الْحَفِيدُ يُحِبُّ جَدَّهُ كَثِيرًا",
       indo: "Cucu itu sangat menyayangi kakeknya.",
-      rejang: "Kepeu tibo nyapu niniek kayaknya."
+      rejang: "Kepeu ne o sayang nien ngen niek bong ne."
     }
   },
   {
@@ -197,7 +197,7 @@ const kosakata = [
     kalimat: {
       arab: "الْجَدُّ يَحْكِي قِصَصَ التُّرَاثِ لِأَحْفَادِه",
       indo: "Kakek menceritakan kisah-kisah warisan budaya kepada cucunya.",
-      rejang: "Niniek ngecite cerie-cerie budaya kapade kepeu."
+      rejang: "Niek bong cemrito sejarah magea kepeu ne."
     }
   },
   {
@@ -211,7 +211,7 @@ const kosakata = [
     kalimat: {
       arab: "الْجَدَّةُ تُعَلِّمُ حَفِيدَتَهَا الطَّبْخَ التَّقْلِيدِيّ",
       indo: "Nenek mengajarkan cucunya masakan tradisional.",
-      rejang: "Sebei ngajak kepeu caro makanek tuo."
+      rejang: "Sebei (Niek bei) majea kepeu ne kesak jaman meno’o."
     }
   },
   {
@@ -225,7 +225,7 @@ const kosakata = [
     kalimat: {
       arab: "الأَبُ يَعْمَلُ فِي الْحَقْلِ كُلَّ يَوْمٍ",
       indo: "Ayah bekerja di ladang setiap hari.",
-      rejang: "Bapok kuleo di uma kutian."
+      rejang: "Bapok kerjo nak dumei tiep bilei."
     }
   },
   {
@@ -239,7 +239,7 @@ const kosakata = [
     kalimat: {
       arab: "الأُمُّ تُحِبُّ أَوْلَادَهَا بِقَلْبٍ كَبِيرٍ",
       indo: "Ibu menyayangi anak-anaknya dengan sepenuh hati.",
-      rejang: "Indok nyapu anok-anok kameah hati."
+      rejang: "Indok (mak) sayang ngen anok-anok ne sepenoak atei."
     }
   },
   {
@@ -253,7 +253,7 @@ const kosakata = [
     kalimat: {
       arab: "الْعَمُّ يُسَاعِدُنَا فِي أُمُورِ الْعَائِلَة",
       indo: "Paman membantu kami dalam urusan keluarga.",
-      rejang: "Mamak tabang kita dalam urusng keluargo."
+      rejang: "Mamak temulung keme nak lem urusan keluargo."
     }
   },
   {
@@ -267,7 +267,7 @@ const kosakata = [
     kalimat: {
       arab: "أَخِي الصَّغِيرُ يَذْهَبُ إِلَى الْمَدْرَسَةِ كُلَّ صَبَاح",
       indo: "Adik saya pergi ke sekolah setiap pagi.",
-      rejang: "Asoa' uku kutok ke sikulah kutian."
+      rejang: "Asoa’ ku aleu mai skulah tiep bilei."
     }
   },
   {
@@ -281,7 +281,7 @@ const kosakata = [
     kalimat: {
       arab: "أَنَا أُحِبُّ لُغَةَ رِيجَانْغ",
       indo: "Saya menyukai bahasa Rejang.",
-      rejang: "Uku nyapu bahaso Rejang."
+      rejang: "Uku suwai baso Jang."
     }
   },
   {
@@ -295,7 +295,7 @@ const kosakata = [
     kalimat: {
       arab: "الصَّدِيقُ الْحَقِيقِيُّ يَكُونُ مَعَكَ فِي السَّرَّاءِ وَالضَّرَّاء",
       indo: "Sahabat sejati selalu ada di saat senang maupun susah.",
-      rejang: "Kunan nyapu basamo kito dalam suko maupun duko."
+      rejang: "Kunan/Kuwat akrab selalu ade nak lem suseak ngen senang."
     }
   },
   {
