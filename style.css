@@ -45,6 +45,7 @@ body::before{
 .krj-header{
   position:relative;
   background-image:
+    linear-gradient(rgba(80,15,12,0.55), rgba(80,15,12,0.55)),
     url("assets/images/batik bengkulu.png");
   background-size:cover;
   background-position:center;
