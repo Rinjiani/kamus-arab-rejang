@@ -2745,8 +2745,190 @@ const kosakata = [
     indo: "Masyarakat Rejang membangun umea' adat dengan keahlian tinggi.",
     rejang: "Masyarakat Rejang bangun umea' adat make keahlian tinggi."
   }
-}
+  {
+    kat: "Kearifan Lokal",
+    arab: "وَحْدَةُ الْقِيَاس",
+    latin: "Wahdul Qiyaas",
+    indo: "satu jengkal",
+    rejang: "deko",
+    gambar: "",
+    budaya: "Deko adalah satuan ukuran tradisional Rejang yang setara dengan satu jengkal tangan. Sistem ukuran tradisional ini mencerminkan kearifan lokal dalam pengukuran yang menggunakan anggota tubuh sebagai referensi.",
+    kalimat: {
+      arab: "يَسْتَخْدِمُ النَّجَّارُ وَحْدَاتِ الْقِيَاسِ التَّقْلِيدِيَّة",
+      indo: "Pengrajin menggunakan ukuran tradisional deko dalam pekerjaannya.",
+      rejang: "Pengrajin gunakan deko dalam kerjo ne."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "رَبٌّ",
+    latin: "Rabb",
+    indo: "dewata",
+    rejang: "dublique",
+    gambar: "",
+    budaya: "Dalam kepercayaan lama masyarakat Rejang sebelum Islam, dewata merujuk pada kekuatan spiritual tertinggi. Konsep ini telah berintegrasi dengan ajaran Islam sehingga masyarakat Rejang modern memaknainya dalam konteks keimanan kepada Allah SWT.",
+    kalimat: {
+      arab: "يُؤْمِنُ الْمُسْلِمُونَ بِاللهِ رَبِّ الْعَالَمِين",
+      indo: "Kita beriman kepada Allah sebagai Tuhan yang menciptakan alam semesta.",
+      rejang: "Kito beriman kapade Allah sebagai Tuhan yang ciptakan alam semesta."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "قَوْسُ قُزَح",
+    latin: "Qawsu Quzah",
+    indo: "pelangi",
+    rejang: "gunea",
+    gambar: "",
+    budaya: "Pelangi (gunea) dalam pandangan masyarakat Rejang bukan sekadar fenomena alam biasa. Terdapat berbagai cerita dan kepercayaan lokal yang berkaitan dengan kemunculan pelangi setelah hujan.",
+    kalimat: {
+      arab: "يَظْهَرُ قَوْسُ الْقُزَحِ بَعْدَ الْمَطَرِ بِأَلْوَانٍ جَمِيلَة",
+      indo: "Pelangi gunea muncul dengan warna yang indah setelah hujan.",
+      rejang: "Gunea nampak make wangno yang indah sesudah udan."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "غُرْفَةُ الاسْتِقْبَال",
+    latin: "Ghurfatul Istiqbaal",
+    indo: "ruang tamu",
+    rejang: "hal",
+    gambar: "",
+    budaya: "Hal (ruang tamu) dalam arsitektur rumah tradisional Rejang adalah ruang khusus untuk menerima tamu. Penataan ruang tamu mencerminkan nilai keramahan dan penghormatan terhadap tamu yang dijunjung tinggi dalam budaya Rejang.",
+    kalimat: {
+      arab: "يَسْتَقْبِلُ أَهْلُ الْبَيْتِ الضُّيُوفَ فِي غُرْفَةِ الاسْتِقْبَال",
+      indo: "Tuan rumah menyambut tamu di ruang tamu hal.",
+      rejang: "Puko' sambut rung tamu di hal."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "أَوْرَاقُ التَّنْبُول",
+    latin: "Awraaqut Tanbuul",
+    indo: "sirih",
+    rejang: "ibeun",
+    gambar: "",
+    budaya: "Sirih (ibeun) memiliki kedudukan istimewa dalam budaya Rejang. Daun sirih digunakan dalam berbagai ritual adat, sebagai simbol penghormatan kepada tamu, dan sebagai bahan ramuan tradisional.",
+    kalimat: {
+      arab: "تُقَدَّمُ أَوْرَاقُ التَّنْبُولِ كَرَمْزٍ لِلتَّرْحِيبِ بِالضُّيُوف",
+      indo: "Daun sirih disajikan sebagai simbol sambutan kepada tamu.",
+      rejang: "Ibeun disajikan sebagai simbol sambut kapade rung tamu."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "زَهْرَةُ رَافِلِيسِيَا",
+    latin: "Zahratun Raafilisiyaa",
+    indo: "rafflesia arnoldi",
+    rejang: "ibeun sekedeui",
+    gambar: "",
+    budaya: "Rafflesia arnoldi adalah bunga raksasa yang tumbuh di hutan Rejang dan menjadi kebanggaan daerah. Dalam bahasa Rejang, rafflesia sering dikaitkan dengan nama sirih karena bentuknya yang lebar, mencerminkan kearifan lokal dalam menamai flora.",
+    kalimat: {
+      arab: "زَهْرَةُ رَافِلِيسِيَا تَنْمُو فِي غَابَاتِ رِيجَانْغ لِيبُونج",
+      indo: "Bunga rafflesia arnoldi tumbuh di hutan Rejang Lebong.",
+      rejang: "Ibeun sekedeui tumbuh di imbo Rejang Lebong."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "تَعْوِيذَةٌ",
+    latin: "Ta'widzah",
+    indo: "jampi/mantra",
+    rejang: "ideu",
+    gambar: "",
+    budaya: "Ideu adalah mantra atau doa dalam tradisi pengobatan dan ritual Rejang yang diucapkan oleh dukun atau pemuka adat. Dalam konteks Islam, praktik ini telah bertransformasi menjadi doa-doa yang berlandaskan ayat Al-Quran.",
+    kalimat: {
+      arab: "يَسْتَعِينُ الطَّبِيبُ التَّقْلِيدِيُّ بِالتَّعْوِيذَاتِ الْخَيِّرَة",
+      indo: "Dukun tradisional menggunakan mantra ideu dalam pengobatan.",
+      rejang: "Dukun tradisional gunake ideu dalam obat."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "حَمَّامٌ بُخَارِيٌّ طِبِّيّ",
+    latin: "Hammaam Bukhariy Thibbiy",
+    indo: "berburu",
+    rejang: "kesimbung",
+    gambar: "",
+    budaya: "Kesimbung adalah tradisi berburu masyarakat Rejang yang dilakukan secara berkelompok dengan aturan-aturan adat yang ketat. Berburu bukan sekadar mencari makanan tetapi juga merupakan ritual untuk membuktikan keberanian.",
+    kalimat: {
+      arab: "يَخْرُجُ الرِّجَالُ لِلصَّيْدِ فِي الْغَابَةِ مَعًا",
+      indo: "Para pria pergi berburu (kesimbung) bersama ke hutan.",
+      rejang: "Para lelaki aleu kesimbung basamo ke imbo."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "كَاتِبٌ شَرْعِيّ",
+    latin: "Kaatib Syar'iy",
+    indo: "khatib",
+    rejang: "ketib",
+    gambar: "",
+    budaya: "Ketib (khatib) dalam masyarakat Rejang adalah pemimpin keagamaan yang memimpin khutbah Jumat dan berbagai kegiatan keagamaan. Ketib memiliki kedudukan yang dihormati dan berperan sebagai penghubung antara nilai-nilai Islam dan adat Rejang.",
+    kalimat: {
+      arab: "يَخْطُبُ الْكَاتِبُ الشَّرْعِيُّ فِي صَلَاةِ الْجُمُعَة",
+      indo: "Khatib ketib menyampaikan khutbah dalam sholat Jumat.",
+      rejang: "Ketib sampaika khutbah dalam sholat Jumat."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "قِرَابَةٌ",
+    latin: "Qiraabah",
+    indo: "kekeluargaan",
+    rejang: "ketibea'",
+    gambar: "",
+    budaya: "Ketibea' adalah sistem kekeluargaan dan kekerabatan dalam masyarakat Rejang yang sangat kompleks. Sistem ini mengatur hubungan antar anggota marga dan menjadi landasan tatanan sosial masyarakat Rejang.",
+    kalimat: {
+      arab: "الْقِرَابَةُ أَسَاسُ الْمُجْتَمَعِ فِي ثَقَافَةِ رِيجَانْغ",
+      indo: "Kekeluargaan ketibea' adalah fondasi masyarakat dalam budaya Rejang.",
+      rejang: "Ketibea' adalah fondasi masyarakat dalam budaya Rejang."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "خُوخَةٌ",
+    latin: "Khuukhah",
+    indo: "jendela",
+    rejang: "kipang",
+    gambar: "",
+    budaya: "Kipang adalah jendela dalam arsitektur rumah tradisional Rejang. Desain jendela rumah adat Rejang memiliki ukiran dan ornamen khas yang berfungsi estetis sekaligus mengatur sirkulasi udara dalam rumah.",
+    kalimat: {
+      arab: "تَدْخُلُ الشَّمْسُ مِنَ الْخُوخَاتِ إِلَى غُرَفِ الْبَيْت",
+      indo: "Cahaya matahari masuk melalui jendela kipang ke dalam ruangan.",
+      rejang: "Cahayo matahari masuk liwat kipang ke dalam ruangan."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "رُمْحٌ مُقَدَّس",
+    latin: "Rumh Muqaddas",
+    indo: "tombak pusaka",
+    rejang: "kojoa toko' tuei",
+    gambar: "",
+    budaya: "Tombak pusaka (kojoa toko' tuei) adalah senjata tradisional Rejang yang diwariskan turun-temurun dan dianggap memiliki kekuatan spiritual. Tombak ini digunakan dalam upacara-upacara adat tertentu.",
+    kalimat: {
+      arab: "يُحَافَظُ عَلَى الرُّمْحِ الْمُقَدَّسِ كَمِيرَاثٍ لِلأَجْيَالِ الْقَادِمَة",
+      indo: "Tombak pusaka dijaga sebagai warisan untuk generasi mendatang.",
+      rejang: "Kojoa toko' tuei dijago sebagai warisan untuk generasi dik teko."
+    }
+  },
+  {
+    kat: "Kearifan Lokal",
+    arab: "مَطَرٌ",
+    latin: "Mathar",
+    indo: "hujan",
+    rejang: "udan",
+    gambar: "",
+    budaya: "Hujan (udan) dalam budaya Rejang dianggap sebagai berkah dari Allah SWT. Masyarakat Rejang memiliki kearifan lokal dalam membaca tanda-tanda alam untuk memprediksi hujan demi keperluan pertanian.",
+    kalimat: {
+      arab: "الْمَطَرُ رَحْمَةٌ مِنَ اللهِ لِلْأَرْضِ وَالإِنْسَان",
+      indo: "Hujan udan adalah rahmat dari Allah untuk bumi dan manusia.",
+      rejang: "Udan adalah rahmat dari Allah untuk bumi ngen manusio."
+    }
+  }
 ];
+
 
 // Jika ada data kosakata.js yang sudah ada, semua entri sudah tersedia di atas
 console.log(`=== DATABASE KOSAKATA SIAP ===`);
