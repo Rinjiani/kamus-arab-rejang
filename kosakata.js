@@ -1751,7 +1751,1002 @@ const kosakata = [
       indo: "Petani menanam sayuran di ladang uma.",
       rejang: "Petani tanam sayur di uma."
     }
+  },
+{
+  kat: "Kearifan Lokal",
+  arab: "بَوَّابَةٌ كَبِيرَة",
+  latin: "Bawwaaqah Kabiiirah",
+  indo: "pintu besar",
+  rejang: "bang mego",
+  gambar: "",
+  budaya: "Bang mego adalah pintu gerbang utama dalam struktur rumah adat Rejang. Pintu besar ini biasanya memiliki ukiran dan ornamen yang lebih elaborat dan menandakan status sosial pemilik rumah.",
+  kalimat: {
+    arab: "تُزَيَّنُ الْبَوَّابَةُ الْكَبِيرَةُ بِنَقُوشٍ جَمِيلَة",
+    indo: "Pintu besar bang mego dihiasi dengan ukiran yang indah.",
+    rejang: "Bang mego dihias make ukiran yang indah."
   }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "بَرَصٌ",
+  latin: "Baras",
+  indo: "kusta",
+  rejang: "kuhing",
+  gambar: "",
+  budaya: "Pengetahuan tentang penyakit kulit termasuk kusta (kuhing) dalam tradisi Rejang mencakup metode pengobatan tradisional menggunakan tumbuhan obat. Masyarakat Rejang memiliki kearifan lokal dalam menangani berbagai penyakit.",
+  kalimat: {
+    arab: "كَانَ الأَطِبَّاءُ التَّقْلِيدِيُّونَ يُعَالِجُونَ الأَمْرَاضَ بِالنَّبَاتَات",
+    indo: "Tabib tradisional mengobati penyakit dengan ramuan tumbuhan.",
+    rejang: "Tabib tradisional obati penyakit make ramuan tumbuhan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَكَانٌ مُقَدَّس",
+  latin: "Makaan Muqaddas",
+  indo: "tempat keramat",
+  rejang: "keteui",
+  gambar: "",
+  budaya: "Keteui adalah tempat-tempat yang dianggap keramat dan sakral dalam kepercayaan masyarakat Rejang. Tempat-tempat ini biasanya adalah makam leluhur, pohon besar tertentu, atau lokasi yang terkait dengan cerita leluhur marga.",
+  kalimat: {
+    arab: "يَزُورُ السُّكَّانُ الأَمَاكِنَ الْمُقَدَّسَةَ لِلتَّبَرُّك",
+    indo: "Warga mengunjungi tempat keramat keteui untuk berdoa.",
+    rejang: "Warga kunjung tempat keramat keteui untuk do'a."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَدِينَةٌ",
+  latin: "Madiinah",
+  indo: "kota",
+  rejang: "kuto",
+  gambar: "",
+  budaya: "Kuto dalam bahasa Rejang merujuk pada pusat pemukiman atau kota. Kata ini mencerminkan perkembangan kehidupan masyarakat Rejang dari kehidupan perkampungan menuju kehidupan urban.",
+  kalimat: {
+    arab: "يَذْهَبُ كَثِيرٌ مِنَ الشَّبَابِ إِلَى الْمَدِينَةِ لِلدِّرَاسَة",
+    indo: "Banyak pemuda pergi ke kota kuto untuk melanjutkan pendidikan.",
+    rejang: "Banyak bujang aleu ke kuto untuk lanjut pendidikan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "حَلْقَةٌ شَمْسِيَّة",
+  latin: "Halqah Syamsiyyah",
+  indo: "cincin matahari",
+  rejang: "ku'ung ndalo",
+  gambar: "",
+  budaya: "Ku'ung ndalo (cincin matahari) adalah fenomena alam berupa lingkaran cahaya di sekitar matahari. Dalam tradisi Rejang, fenomena ini dianggap sebagai pertanda alam yang memiliki makna tertentu bagi kehidupan masyarakat.",
+  kalimat: {
+    arab: "يَظْهَرُ الْهَالَةُ الشَّمْسِيَّةُ أَحْيَانًا فِي الأَيَّامِ الْغَائِمَة",
+    indo: "Cincin matahari ku'ung ndalo terlihat pada hari-hari tertentu.",
+    rejang: "Ku'ung ndalo kelihatan pada hari-hari tertentu."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "نَسِيجٌ مِنَ اللِّحَاء",
+  latin: "Nasiij Minal Lihaaa'",
+  indo: "kain dari kulit pohon",
+  rejang: "lantung",
+  gambar: "",
+  budaya: "Lantung adalah kain tradisional Rejang yang terbuat dari kulit kayu pohon tertentu yang diolah dengan teknik khusus. Kain lantung merupakan warisan tekstil tradisional yang saat ini mulai langka dan perlu dilestarikan.",
+  kalimat: {
+    arab: "يُصْنَعُ النَّسِيجُ التَّقْلِيدِيُّ مِنْ لِحَاءِ الأَشْجَارِ الْخَاصَّة",
+    indo: "Kain lantung dibuat dari kulit kayu pohon tertentu secara tradisional.",
+    rejang: "Lantung buek dari kulit kayu pohon tertentu."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَخْزَنُ الْأَرُزّ",
+  latin: "Makhzanul Aruzz",
+  indo: "lumbung padi",
+  rejang: "latuk",
+  gambar: "",
+  budaya: "Latuk adalah lumbung padi tradisional Rejang yang berfungsi sebagai tempat penyimpanan hasil panen. Keberadaan lumbung mencerminkan kearifan lokal dalam manajemen pangan untuk menghadapi musim paceklik.",
+  kalimat: {
+    arab: "يَمْتَلِئُ مَخْزَنُ الْأَرُزِّ بَعْدَ مَوْسِمِ الْحَصَادِ الْوَفِير",
+    indo: "Lumbung padi latuk penuh setelah musim panen yang melimpah.",
+    rejang: "Latuk penuh sesudah musim panen berlimpah."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "حَقِيبَةٌ مِنَ الْخَيْزُرَان",
+  latin: "Haqiibah Minal Khayzuraan",
+  indo: "tas dari bambu",
+  rejang: "leguai",
+  gambar: "",
+  budaya: "Leguai adalah tas anyaman bambu tradisional Rejang yang digunakan untuk membawa barang-barang ke ladang atau pasar. Keahlian menganyam bambu adalah warisan budaya yang terus dilestarikan oleh pengrajin Rejang.",
+  kalimat: {
+    arab: "تَحْمِلُ الأُمُّ حَقِيبَةَ الْخَيْزُرَانِ إِلَى السُّوق",
+    indo: "Ibu membawa tas bambu leguai ke pasar.",
+    rejang: "Indok bawa leguai ke pasar."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "تَخْمِيرُ الْخَيْزُرَان",
+  latin: "Takhmiiru Khayzuraan",
+  indo: "fermentasi rebung bambu",
+  rejang: "lema",
+  gambar: "",
+  budaya: "Lema adalah makanan tradisional Rejang berupa rebung bambu yang difermentasi. Proses fermentasi menggunakan teknik tradisional yang menghasilkan cita rasa khas dan menjadi salah satu kuliner unggulan daerah Rejang Lebong.",
+  kalimat: {
+    arab: "الرِّبِيانُ الْمُخَمَّرُ طَعَامٌ تَقْلِيدِيٌّ لَذِيذٌ",
+    indo: "Lema rebung bambu fermentasi adalah makanan tradisional yang lezat.",
+    rejang: "Lema adalah makanan tradisional yang lezat."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "ظُهْرٌ",
+  latin: "Zhuhur",
+  indo: "tengah hari",
+  rejang: "ma'eup",
+  gambar: "",
+  budaya: "Ma'eup merujuk pada waktu tengah hari dalam bahasa Rejang. Waktu ini biasanya digunakan untuk beristirahat dari pekerjaan ladang dan melaksanakan sholat Dzuhur bagi yang muslim.",
+  kalimat: {
+    arab: "نَسْتَرِيحُ عِنْدَ الظُّهْرِ لِتَنَاوُلِ الطَّعَامِ وَأَدَاءِ الصَّلَاة",
+    indo: "Kami beristirahat di tengah hari untuk makan dan sholat Dzuhur.",
+    rejang: "Kito istirahat saat ma'eup untuk makan ngen do'a."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "نَسَجَ الْخَيْزُرَان",
+  latin: "Nasajal Khayzuraan",
+  indo: "menganyam bambu",
+  rejang: "manem",
+  gambar: "",
+  budaya: "Manem adalah kegiatan menganyam bambu yang merupakan keterampilan tradisional masyarakat Rejang. Produk anyaman bambu Rejang dikenal kuat dan indah, menjadi salah satu kerajinan unggulan daerah ini.",
+  kalimat: {
+    arab: "يَنْسِجُ الْحَرَفِيُّ الْخَيْزُرَانَ بِمَهَارَةٍ عَالِيَة",
+    indo: "Pengrajin menganyam bambu dengan keahlian tinggi.",
+    rejang: "Pengrajin anym buluh make keahlian tinggi."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مُزَارِعٌ مَسِنّ",
+  latin: "Muzaari' Masinn",
+  indo: "jompo",
+  rejang: "man ke'eut",
+  gambar: "",
+  budaya: "Dalam budaya Rejang, orang tua yang sudah lanjut usia (man ke'eut) mendapat penghormatan dan perawatan yang istimewa dari keluarga dan masyarakat. Menghormati orang tua adalah nilai utama dalam etika sosial Rejang.",
+  kalimat: {
+    arab: "يَحْتَرِمُ أَبْنَاءُ رِيجَانْغ كِبَارَ السِّنِّ وَيَرْعَوْنَهُم",
+    indo: "Masyarakat Rejang menghormati dan merawat orang yang sudah jompo.",
+    rejang: "Masyarakat Rejang hormati ngen rawat man ke'eut."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَشَى عَلَى الأَرْض",
+  latin: "Masya 'alal Ardh",
+  indo: "mengikat padi",
+  rejang: "meket pai",
+  gambar: "",
+  budaya: "Meket pai adalah proses mengikat padi setelah dipanen, yang merupakan bagian dari rangkaian kegiatan panen tradisional Rejang. Cara mengikat padi yang benar mencerminkan keterampilan bertani yang diwariskan turun-temurun.",
+  kalimat: {
+    arab: "يَرْبِطُ الْفَلَّاحُونَ حُزَمَ الأَرُزِّ بَعْدَ الْحَصَاد",
+    indo: "Para petani mengikat padi setelah proses panen selesai.",
+    rejang: "Para petani ikat pai sesudah panen selesai."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "فَتَحَ الأَرْض",
+  latin: "Fatahul Ardh",
+  indo: "membuka lahan",
+  rejang: "melapea'",
+  gambar: "",
+  budaya: "Melapea' adalah tradisi membuka lahan baru untuk pertanian dalam budaya Rejang. Kegiatan ini dilakukan dengan ritual-ritual tertentu sebagai permohonan izin kepada alam dan memohon keberkahan dari Allah SWT.",
+  kalimat: {
+    arab: "يَفْتَحُ الْفَلَّاحُونَ أَرَاضِيَ جَدِيدَةً لِلزِّرَاعَة",
+    indo: "Para petani membuka lahan baru melapea' untuk bercocok tanam.",
+    rejang: "Para petani buka lahan baru melapea' untuk cocok tanam."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "اسْتَعَارَ الأَرْض",
+  latin: "Ista'aaral Ardh",
+  indo: "pinjam tanah",
+  rejang: "menikeun",
+  gambar: "",
+  budaya: "Menikeun adalah sistem pinjam tanah dalam adat Rejang yang memungkinkan seseorang menggunakan tanah orang lain untuk pertanian dengan kesepakatan tertentu. Sistem ini mencerminkan prinsip kebersamaan dan tolong-menolong dalam masyarakat.",
+  kalimat: {
+    arab: "يَسْتَعِيرُ الْفَلَّاحُ الأَرْضَ مِنْ جَارِهِ لِمَوْسِمٍ وَاحِد",
+    indo: "Petani meminjam tanah dari tetangganya untuk satu musim tanam.",
+    rejang: "Petani pinjam tanah dari tetangga satu musim tanam."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "أَشْعَةُ الشَّمْسِ الأَرُزّ",
+  latin: "Asy'atus Syamsil Aruzz",
+  indo: "menjemur padi",
+  rejang: "mla'ton",
+  gambar: "",
+  budaya: "Mla'ton adalah proses menjemur padi di bawah sinar matahari setelah panen sebagai tahap pengolahan sebelum digiling. Tradisi ini memanfaatkan kearifan lokal dalam memanfaatkan sumber daya alam secara optimal.",
+  kalimat: {
+    arab: "يُجَفِّفُ الْفَلَّاحُونَ الأَرُزَّ تَحْتَ أَشِعَّةِ الشَّمْس",
+    indo: "Petani menjemur padi mla'ton di bawah sinar matahari.",
+    rejang: "Petani jemur pai mla'ton di bawah panas matahari."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَرَضُ الْجِلْد",
+  latin: "Maradhul Jild",
+  indo: "kudis",
+  rejang: "mlo'opoi",
+  gambar: "",
+  budaya: "Pengetahuan tentang penyakit kulit dalam kearifan lokal Rejang mencakup cara pengobatan menggunakan tumbuhan herbal. Masyarakat Rejang memiliki khasanah pengetahuan tradisional tentang berbagai penyakit dan cara pengobatannya.",
+  kalimat: {
+    arab: "يُعَالِجُ الطَّبِيبُ التَّقْلِيدِيُّ أَمْرَاضَ الْجِلْدِ بِالْعُشُوبِ الطَّبِيعِيَّة",
+    indo: "Tabib tradisional mengobati penyakit kulit dengan ramuan herbal.",
+    rejang: "Tabib tradisional obati penyakit kulit make ramuan herbal."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَرْحَلَةُ الْحَصَاد",
+  latin: "Marhalatul Hashaad",
+  indo: "menuai padi",
+  rejang: "ngeteum",
+  gambar: "",
+  budaya: "Ngeteum adalah kegiatan memanen padi yang dalam tradisi Rejang dilakukan secara gotong royong. Proses panen padi diiringi dengan syukuran dan ritual terima kasih atas rezeki yang diberikan.",
+  kalimat: {
+    arab: "يَحْصُدُ الْفَلَّاحُونَ الأَرُزَّ مَعًا فِي مَوْسِمِ الْحَصَاد",
+    indo: "Para petani memanen padi ngeteum bersama-sama secara gotong royong.",
+    rejang: "Para petani panen pai ngeteum basamo gotong royong."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَضَغَ التَّنْبُول",
+  latin: "Madhaghut Tanbuul",
+  indo: "makan daun sirih",
+  rejang: "ngibeun",
+  gambar: "",
+  budaya: "Ngibeun (menginang atau makan sirih) adalah tradisi masyarakat Rejang yang telah berlangsung lama. Sirih pinang biasanya dimakan bersama sebagai bentuk keramahan dan memiliki fungsi sosial yang penting dalam pergaulan.",
+  kalimat: {
+    arab: "يَمْضَغُ الشُّيُوخُ التَّنْبُولَ بِالتَّقْلِيدِ الْقَدِيم",
+    indo: "Para sesepuh makan sirih ngibeun sesuai tradisi leluhur.",
+    rejang: "Para sesepuh makan ibeun ngibeun sesuai tradisi niniek."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "نَقَعَ النَّخِيل",
+  latin: "Naqa'an Nakhiil",
+  indo: "menyadap air aren",
+  rejang: "nyeba'",
+  gambar: "",
+  budaya: "Nyeba' adalah tradisi menyadap pohon aren untuk mengambil air niranya yang kemudian dijadikan gula merah atau minuman tradisional. Pengetahuan tentang cara menyadap yang tepat diwariskan dari ayah kepada anak.",
+  kalimat: {
+    arab: "يَصْعَدُ الرَّجُلُ إِلَى النَّخِيلِ لِنَقْعِ مَائِهِ الْحُلْو",
+    indo: "Pria memanjat pohon aren untuk menyadap air nira yang manis.",
+    rejang: "Lelaki panjat pohon aren untuk sadap air nira yang manis."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مُسْتَوْطَنَةٌ مُؤَقَّتَة",
+  latin: "Mustawthana Mu'aqqatah",
+  indo: "talang (pemukiman sementara)",
+  rejang: "talang nua'",
+  gambar: "",
+  budaya: "Talang adalah pemukiman sementara yang didirikan masyarakat Rejang di dekat lahan pertanian mereka. Tradisi ini mencerminkan kearifan lokal dalam mengoptimalkan pengelolaan lahan pertanian.",
+  kalimat: {
+    arab: "يَبْنِي الْفَلَّاحُونَ مُسْتَوْطَنَةً مُؤَقَّتَةً قُرْبَ حُقُولِهِم",
+    indo: "Petani mendirikan talang sebagai tempat tinggal sementara dekat ladang.",
+    rejang: "Petani dirikan talang nua' sebagai tempat tudo sementara dekat uma."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "أَرُزٌّ",
+  latin: "Aruzz",
+  indo: "padi",
+  rejang: "pai",
+  gambar: "",
+  budaya: "Padi (pai) adalah tanaman utama dalam kehidupan masyarakat Rejang. Budidaya padi bukan hanya kegiatan ekonomi tetapi juga mengandung nilai spiritual dan budaya yang dalam, tercermin dalam berbagai ritual yang berkaitan dengan siklus padi.",
+  kalimat: {
+    arab: "الأَرُزُّ غِذَاءٌ رَئِيسِيٌّ لِشَعْبِ رِيجَانْغ",
+    indo: "Padi adalah tanaman utama dan makanan pokok masyarakat Rejang.",
+    rejang: "Pai adalah tanaman utamo ngen makanan pokok masyarakat."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "سَقْفٌ دَاخِلِيّ",
+  latin: "Saqf Daakhiliy",
+  indo: "langit-langit rumah",
+  rejang: "palei",
+  gambar: "",
+  budaya: "Palei adalah langit-langit rumah dalam arsitektur tradisional Rejang. Desain langit-langit rumah adat Rejang sering dihiasi dengan ukiran dan ornamen yang mencerminkan nilai estetika dan filosofi budaya setempat.",
+  kalimat: {
+    arab: "يُزَيَّنُ السَّقْفُ الدَّاخِلِيُّ بِنَقُوشٍ تَقْلِيدِيَّة",
+    indo: "Langit-langit palei rumah adat dihiasi dengan ukiran tradisional.",
+    rejang: "Palei umea' adat dihias make ukiran tradisional."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "كُوخٌ",
+  latin: "Kuukh",
+  indo: "gubuk",
+  rejang: "patoa-patoa",
+  gambar: "",
+  budaya: "Patoa-patoa adalah gubuk atau pondok sederhana yang dibuat di ladang sebagai tempat berteduh petani. Kehadiran gubuk di ladang mencerminkan ketekunan dan semangat kerja keras masyarakat Rejang.",
+  kalimat: {
+    arab: "يَسْتَرِيحُ الْفَلَّاحُ فِي كُوخِهِ خِلَالَ فَتْرَةِ الرَّاحَة",
+    indo: "Petani beristirahat di gubuk patoa-patoa selama jeda kerja.",
+    rejang: "Petani istirahat di patoa-patoa saat waktu istirahat."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "هَدِيَّةٌ",
+  latin: "Hadiyyah",
+  indo: "hadiah",
+  rejang: "pebo",
+  gambar: "",
+  budaya: "Tradisi memberi hadiah (pebo) dalam budaya Rejang adalah wujud penghargaan dan kasih sayang antar sesama. Dalam acara adat, pertukaran hadiah memiliki aturan dan makna simbolis tersendiri.",
+  kalimat: {
+    arab: "يُقَدِّمُ الضُّيُوفُ هَدَايَا لِأَصْحَابِ الْبَيْت",
+    indo: "Tamu membawa hadiah pebo untuk tuan rumah sebagai tanda penghargaan.",
+    rejang: "Tamu bawok pebo untuk tuan rumah sebagai tandai penghargaan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مُؤَرِّخٌ",
+  latin: "Mu'arriikh",
+  indo: "ahli sejarah",
+  rejang: "piawang",
+  gambar: "",
+  budaya: "Piawang adalah sebutan untuk orang yang ahli dalam sejarah dan tradisi adat Rejang. Mereka berperan sebagai penjaga ingatan kolektif masyarakat dan menjadi rujukan dalam berbagai upacara dan musyawarah adat.",
+  kalimat: {
+    arab: "يَرْجِعُ الْمُجْتَمَعُ إِلَى الْمُؤَرِّخِ فِي الشُّؤُونِ الأَعْرَافِيَّة",
+    indo: "Masyarakat merujuk kepada piawang dalam urusan adat dan sejarah.",
+    rejang: "Masyarakat rujuk kapade piawang dalam urusan adat ngen sejarah."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "جَمْرُ النَّار",
+  latin: "Jamrun Naar",
+  indo: "bara api",
+  rejang: "plongon opoy",
+  gambar: "",
+  budaya: "Bara api (plongon opoy) dalam tradisi Rejang memiliki peran penting dalam berbagai ritual dan kehidupan sehari-hari. Api dianggap sebagai elemen yang memberi kehangatan dan perlindungan bagi keluarga.",
+  kalimat: {
+    arab: "تُدْفِئُنَا جَمْرَةُ النَّارِ فِي اللَّيَالِي الْبَارِدَة",
+    indo: "Bara api plongon opoy menghangatkan kami di malam yang dingin.",
+    rejang: "Plongon opoy hangatkan keto di malam yang dingin."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "رَبُّ الْبَيْت",
+  latin: "Rabbul Bayt",
+  indo: "tuan rumah",
+  rejang: "puko'",
+  gambar: "",
+  budaya: "Puko' adalah sebutan untuk tuan rumah dalam tradisi Rejang. Tuan rumah memiliki kewajiban adat untuk menyambut dan melayani tamu dengan sebaik-baiknya, mencerminkan nilai keramahan yang tinggi.",
+  kalimat: {
+    arab: "يَسْتَقْبِلُ رَبُّ الْبَيْتِ الضُّيُوفَ بِحَفَاوَةٍ وَتَرْحِيب",
+    indo: "Tuan rumah puko' menyambut tamu dengan hangat dan penuh keramahan.",
+    rejang: "Puko' sambut rung tamu make hangat ngen keramahan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "رَاجَ",
+  latin: "Raaja",
+  indo: "raja",
+  rejang: "rajo",
+  gambar: "",
+  budaya: "Rajo adalah gelar pemimpin tertinggi dalam struktur pemerintahan adat Rejang. Rajo memiliki otoritas spiritual dan sosial dalam menjalankan adat dan memimpin upacara-upacara besar.",
+  kalimat: {
+    arab: "يَقُودُ الرَّاجَا الشَّعْبَ بِالْعَدْلِ وَالْحِكْمَة",
+    indo: "Rajo memimpin masyarakat adat dengan adil dan bijaksana.",
+    rejang: "Rajo pimpin masyarakat adat make adil ngen bijaksana."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "فَتَاةٌ",
+  latin: "Fataah",
+  indo: "gadis",
+  rejang: "rung",
+  gambar: "",
+  budaya: "Gadis muda (rung) dalam budaya Rejang mendapatkan pendidikan adat secara khusus untuk mempersiapkan mereka menjadi ibu rumah tangga yang baik dan penerus tradisi budaya Rejang.",
+  kalimat: {
+    arab: "تَتَعَلَّمُ الْفَتَيَاتُ الْحِرَفَ التَّقْلِيدِيَّةَ مِنَ الأُمَّهَات",
+    indo: "Para gadis rung belajar kerajinan tradisional dari para ibu.",
+    rejang: "Para rung belajar kerajinan tradisional dari para indok."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "قَرْيَةٌ",
+  latin: "Qaryah",
+  indo: "kampung",
+  rejang: "sadeui",
+  gambar: "",
+  budaya: "Sadeui (kampung) adalah unit pemukiman terkecil dalam organisasi sosial masyarakat Rejang. Setiap kampung memiliki identitas marga tersendiri dan dikelola dengan sistem pemerintahan adat yang telah berlangsung berabad-abad.",
+  kalimat: {
+    arab: "يَعِيشُ أَهْلُ رِيجَانْغ فِي قُرًى صَغِيرَةٍ مُتَمَاسِكَة",
+    indo: "Masyarakat Rejang hidup dalam kampung sadeui yang erat dan bersatu.",
+    rejang: "Masyarakat Rejang tudo dalam sadeui yang erat ngen bersatu."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "نَوْلٌ",
+  latin: "Nawl",
+  indo: "alat tenun",
+  rejang: "samben",
+  gambar: "",
+  budaya: "Samben adalah alat tenun tradisional yang digunakan wanita Rejang untuk membuat kain tenun. Keahlian menenun merupakan keterampilan yang sangat dihargai dan menjadi bagian dari pendidikan tradisional wanita Rejang.",
+  kalimat: {
+    arab: "تَنْسِجُ الْمَرْأَةُ الثَّوْبَ التَّقْلِيدِيَّ عَلَى النَّوْلِ التَّقْلِيدِيّ",
+    indo: "Wanita menenun kain tradisional menggunakan alat tenun samben.",
+    rejang: "Perempuan tenun kain tradisional pakai samben."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "رُوحٌ",
+  latin: "Ruuh",
+  indo: "ruh",
+  rejang: "seligeui",
+  gambar: "",
+  budaya: "Konsep ruh (seligeui) dalam kepercayaan tradisional Rejang memiliki dimensi yang kompleks. Kepercayaan tentang ruh ini telah berintegrasi dengan ajaran Islam, di mana ruh dianggap sebagai ciptaan Allah yang akan kembali kepada-Nya.",
+  kalimat: {
+    arab: "الرُّوحُ أَمْرٌ مِنَ اللهِ وَهِيَ مِنَ الْعَالَمِ الْغَيْبِيّ",
+    indo: "Ruh adalah urusan Allah dan termasuk hal yang gaib.",
+    rejang: "Seligeui adalah urusan Allah ngen termasuk hal gaib."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَصْدَرُ مَاء",
+  latin: "Mashdaru Maa'",
+  indo: "mata air",
+  rejang: "smidang",
+  gambar: "",
+  budaya: "Smidang (mata air) dalam budaya Rejang dianggap sebagai sumber kehidupan yang sakral. Mata air dilindungi oleh aturan adat dan dipercaya memiliki kekuatan penyembuhan serta sering digunakan dalam ritual-ritual adat.",
+  kalimat: {
+    arab: "تَتَدَفَّقُ الْمِيَاهُ النَّقِيَّةُ مِنَ الْمَصَادِرِ الطَّبِيعِيَّة",
+    indo: "Air bersih mengalir dari mata air smidang di kaki bukit.",
+    rejang: "Bioa bersih alir dari smidang di kaki bukit."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "رَعْدٌ",
+  latin: "Ra'd",
+  indo: "petir",
+  rejang: "semitoa",
+  gambar: "",
+  budaya: "Petir (semitoa) dalam pandangan masyarakat Rejang merupakan pertanda alam yang memiliki makna tertentu. Ketika petir menyambar, masyarakat tradisional Rejang memiliki doa-doa dan ritual khusus untuk memohon keselamatan.",
+  kalimat: {
+    arab: "الرَّعْدُ وَالْبَرْقُ آيَتَانِ مِنْ آيَاتِ اللهِ فِي الْكَوْن",
+    indo: "Petir semitoa adalah tanda kekuasaan Allah di alam semesta.",
+    rejang: "Semitoa adalah tandai kekuasaan Allah di alam semesta."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مِطْبَخٌ",
+  latin: "Mathbakh",
+  indo: "dapur",
+  rejang: "sondong",
+  gambar: "",
+  budaya: "Sondong adalah dapur dalam rumah tradisional Rejang yang biasanya terletak di bagian belakang rumah. Dapur tradisional Rejang menggunakan tungku dengan kayu bakar dan memiliki desain yang khas dengan ventilasi alami.",
+  kalimat: {
+    arab: "تَطْبُخُ الأُمُّ الطَّعَامَ فِي الْمِطْبَخِ التَّقْلِيدِيّ",
+    indo: "Ibu memasak di dapur sondong menggunakan tungku kayu bakar.",
+    rejang: "Indok masak di sondong pakai tungku kayu bakar."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "أَجْرٌ",
+  latin: "Ajr",
+  indo: "upah",
+  rejang: "sorok",
+  gambar: "",
+  budaya: "Sistem upah (sorok) dalam tradisi Rejang diatur secara adat dan biasanya tidak hanya berupa uang tetapi juga bisa berupa hasil panen, makanan, atau pertukaran jasa. Sistem ini mencerminkan nilai keadilan dan gotong royong.",
+  kalimat: {
+    arab: "يَتَلَقَّى الْعَامِلُ أَجْرَهُ بَعْدَ إِتْمَامِ الْعَمَل",
+    indo: "Pekerja menerima upah sorok setelah menyelesaikan pekerjaannya.",
+    rejang: "Pekerja terima sorok sesudah selesaikan kerjo."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "وَدَّعَ",
+  latin: "Wadda'a",
+  indo: "pamit",
+  rejang: "stabik",
+  gambar: "",
+  budaya: "Tradisi pamit (stabik) dalam budaya Rejang dilakukan dengan cara yang khas dan penuh tata krama. Seseorang yang akan bepergian jauh harus pamit kepada seluruh anggota keluarga dan orang tua secara resmi.",
+  kalimat: {
+    arab: "وَدَّعَ الشَّابُّ أَهْلَهُ قَبْلَ السَّفَرِ إِلَى الْمَدِينَة",
+    indo: "Pemuda pamit stabik kepada keluarganya sebelum pergi ke kota.",
+    rejang: "Bujang stabik kapade keluargo sebelum aleu ke kuto."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "كَنِيسَةُ شَعْرٍ",
+  latin: "Kaniisat Sya'r",
+  indo: "konde",
+  rejang: "suting",
+  gambar: "",
+  budaya: "Suting adalah konde atau sanggul rambut tradisional wanita Rejang yang memiliki bentuk khas dan sering dihiasi dengan ornamen emas atau bunga. Gaya rambut ini digunakan dalam upacara adat dan mencerminkan identitas wanita Rejang.",
+  kalimat: {
+    arab: "تَرْتَدِي الْمَرْأَةُ كَنِيسَةَ الشَّعْرِ التَّقْلِيدِيَّةَ فِي حَفَلَاتِ الأَعْرَاس",
+    indo: "Wanita mengenakan konde suting dalam upacara pernikahan adat.",
+    rejang: "Perempuan pakai suting dalam upacara bimbang."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "عَسَلُ النَّخِيل",
+  latin: "'Asalun Nakhiil",
+  indo: "manisan kelapa",
+  rejang: "tamburu'",
+  gambar: "",
+  budaya: "Tamburu' adalah gula atau manisan tradisional yang terbuat dari nira pohon aren atau kelapa. Produksi tamburu' merupakan industri rumahan yang penting dalam ekonomi tradisional masyarakat Rejang.",
+  kalimat: {
+    arab: "يُصْنَعُ عَسَلُ النَّخِيلِ مِنْ مَاءِ الْكُوكُوزِ الطَّازَج",
+    indo: "Manisan kelapa tamburu' dibuat dari air nira yang segar.",
+    rejang: "Tamburu' buek dari air nira yang segar."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "لِبَاسٌ تَقْلِيدِيّ",
+  latin: "Libaas Taqliidiy",
+  indo: "baju adat",
+  rejang: "tanggep",
+  gambar: "",
+  budaya: "Tanggep adalah pakaian adat tradisional suku Rejang yang dikenakan dalam berbagai upacara adat. Pakaian ini memiliki motif dan warna yang khas, mencerminkan identitas budaya dan status sosial pemakainya.",
+  kalimat: {
+    arab: "يَرْتَدِي أَبْنَاءُ الْقَبِيلَةِ اللِّبَاسَ التَّقْلِيدِيَّ فِي الأَعْيَاد",
+    indo: "Warga mengenakan baju adat tanggep dalam upacara dan perayaan.",
+    rejang: "Warga pakai tanggep dalam upacara ngen perayaan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "جَبَلٌ",
+  latin: "Jabal",
+  indo: "gunung",
+  rejang: "tebo",
+  gambar: "",
+  budaya: "Gunung (tebo) dalam pandangan masyarakat Rejang adalah bagian dari lanskap alam yang sakral. Beberapa gunung di wilayah Rejang Lebong dianggap sebagai tempat tinggal roh leluhur dan dijaga dengan aturan adat yang ketat.",
+  kalimat: {
+    arab: "يَقُومُ الْجَبَلُ الشَّامِخُ بِحِمَايَةِ الْقَرْيَةِ مِنَ الرِّيَاحِ",
+    indo: "Gunung tebo yang tinggi melindungi kampung dari angin kencang.",
+    rejang: "Tebo yang tinggi lindungi sadeui dari angin kencang."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "أُنْبُوبُ الْخَيْزُرَان",
+  latin: "Unbuubul Khayzuraan",
+  indo: "tabung bambu",
+  rejang: "tikoa",
+  gambar: "",
+  budaya: "Tikoa (tabung bambu) adalah alat serbaguna dalam kehidupan tradisional Rejang yang digunakan sebagai wadah air, tempat memasak, alat musik, hingga sebagai media ritual. Bambu adalah material yang sangat penting dalam budaya material Rejang.",
+  kalimat: {
+    arab: "يُسْتَخْدَمُ أُنْبُوبُ الْخَيْزُرَانِ لِطَبْخِ الأَرُزِّ وَتَخْزِينِ الْمِيَاه",
+    indo: "Tabung bambu tikoa digunakan untuk memasak dan menyimpan air.",
+    rejang: "Tikoa gunakan untuk masak ngen simpen bioa."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "شَيْخٌ",
+  latin: "Syaikh",
+  indo: "tua (sesepuh)",
+  rejang: "tueui",
+  gambar: "",
+  budaya: "Tueui adalah sebutan untuk sesepuh atau orang tua yang dihormati dalam masyarakat Rejang. Sesepuh berperan sebagai penasihat dalam musyawarah adat dan penjaga nilai-nilai tradisi yang telah ada sejak dahulu.",
+  kalimat: {
+    arab: "يَسْتَشِيرُ الشَّبَابُ الشُّيُوخَ فِي الْأُمُورِ الْمُهِمَّة",
+    indo: "Pemuda berkonsultasi kepada sesepuh tueui dalam hal-hal penting.",
+    rejang: "Bujang konsultasi kapade tueui dalam hal-hal penting."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَهْرَجَانٌ سَنَوِيّ",
+  latin: "Mahrajaan Sanawiy",
+  indo: "festival tahunan budaya",
+  rejang: "umbung kuteui",
+  gambar: "",
+  budaya: "Umbung kuteui adalah festival budaya tahunan masyarakat Rejang yang menampilkan berbagai kekayaan seni, kuliner, dan tradisi lokal. Festival ini menjadi ajang pelestarian budaya sekaligus memperkenalkan kekayaan budaya Rejang kepada dunia.",
+  kalimat: {
+    arab: "يُقَامُ الْمَهْرَجَانُ السَّنَوِيُّ لِتَعْزِيزِ التُّرَاثِ الثَّقَافِيّ",
+    indo: "Festival umbung kuteui diadakan setiap tahun untuk melestarikan budaya.",
+    rejang: "Umbung kuteui diadakan tiep tahun untuk lestarika budaya."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "حَارٌّ",
+  latin: "Haarr",
+  indo: "panas",
+  rejang: "pano",
+  gambar: "",
+  budaya: "Iklim panas (pano) di wilayah Rejang Lebong mendorong masyarakat untuk mengembangkan berbagai kearifan lokal dalam beradaptasi, mulai dari desain rumah yang sejuk hingga pola aktivitas yang menyesuaikan suhu.",
+  kalimat: {
+    arab: "الطَّقْسُ حَارٌّ فِي مَوْسِمِ الْجَفَاف",
+    indo: "Cuaca sangat panas di musim kemarau.",
+    rejang: "Cuaka sangat pano di musim kering."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "بَارِدٌ",
+  latin: "Baarid",
+  indo: "dingin",
+  rejang: "dingin",
+  gambar: "",
+  budaya: "Suhu dingin di daerah pegunungan Rejang Lebong mempengaruhi gaya hidup dan tradisi masyarakat. Pakaian tradisional dan metode memasak dirancang untuk menghadapi kondisi iklim yang sejuk hingga dingin.",
+  kalimat: {
+    arab: "الطَّقْسُ بَارِدٌ فِي الصَّبَاحِ الْبَاكِر",
+    indo: "Udara dingin di pagi hari pegunungan Rejang Lebong.",
+    rejang: "Uaro dingin di pagi hari pegunungan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "رِيحٌ",
+  latin: "Riih",
+  indo: "angin",
+  rejang: "angin",
+  gambar: "",
+  budaya: "Angin dalam kearifan lokal Rejang menjadi penanda perubahan cuaca dan musim. Masyarakat Rejang memiliki kemampuan tradisional membaca arah dan kekuatan angin untuk keperluan pertanian dan navigasi.",
+  kalimat: {
+    arab: "تَهُبُّ الرِّيحُ الْبَارِدَةُ مِنَ الْجَبَل",
+    indo: "Angin dingin berhembus dari arah gunung.",
+    rejang: "Angin dingin siup dari arah tebo."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "نَارٌ",
+  latin: "Naar",
+  indo: "api",
+  rejang: "apui",
+  gambar: "",
+  budaya: "Api (apui) dalam budaya Rejang memiliki kedudukan penting dalam kehidupan sehari-hari dan ritual. Cara membuat api tradisional menggunakan bahan alami adalah salah satu kearifan lokal yang diwariskan.",
+  kalimat: {
+    arab: "تَتَوَهَّجُ النَّارُ فِي الْمَوْقِدِ الطَّيِّب",
+    indo: "Api menyala di tungku memasak tradisional.",
+    rejang: "Apui nyalak di tungku masak tradisional."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "تُرَابٌ",
+  latin: "Turaab",
+  indo: "tanah",
+  rejang: "taneak",
+  gambar: "",
+  budaya: "Tanah (taneak) dalam pandangan masyarakat Rejang adalah anugerah yang harus dijaga dan dikelola dengan bijak. Hukum adat mengatur kepemilikan dan pemanfaatan tanah untuk mencegah sengketa dan menjaga keseimbangan alam.",
+  kalimat: {
+    arab: "التُّرَابُ الْخَصِبُ هِبَةٌ مِنَ اللهِ لِلزِّرَاعَة",
+    indo: "Tanah yang subur adalah anugerah Allah untuk pertanian.",
+    rejang: "Taneak subur adalah hibah Allah untuk cocok tanam."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "حَجَرٌ",
+  latin: "Hajar",
+  indo: "batu",
+  rejang: "batu",
+  gambar: "",
+  budaya: "Batu dalam kehidupan tradisional Rejang dimanfaatkan sebagai bahan bangunan, alat pertanian, dan simbol dalam ritual adat. Beberapa batu besar dianggap keramat dan menjadi penanda batas wilayah marga.",
+  kalimat: {
+    arab: "يَسْتَخْدِمُ الْبَنَّاؤُونَ الْحِجَارَةَ لِبِنَاءِ الْمَنَازِل",
+    indo: "Para pembangun menggunakan batu untuk membangun pondasi rumah.",
+    rejang: "Para pembangun gunakan batu untuk bangun pondasi umea'."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "شَجَرَةٌ",
+  latin: "Syajarah",
+  indo: "pohon",
+  rejang: "pohon",
+  gambar: "",
+  budaya: "Pohon (kayu) dalam budaya Rejang bukan sekadar sumber bahan bangunan. Berbagai jenis pohon dianggap sakral, dilindungi oleh aturan adat, dan menjadi bagian dari ekosistem yang dijaga kelestariannya.",
+  kalimat: {
+    arab: "الشَّجَرَةُ تُعْطِينَا الأُكْسُجِينَ وَالظِّلَّ الظَّلِيل",
+    indo: "Pohon memberikan oksigen dan keteduhan yang kita butuhkan.",
+    rejang: "Pohon bek oksigen ngen keteduhan yang keto butuh."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "فَاكِهَةٌ",
+  latin: "Faakihah",
+  indo: "buah",
+  rejang: "buah",
+  gambar: "",
+  budaya: "Keanekaragaman buah-buahan di wilayah Rejang mencerminkan kekayaan alam yang luar biasa. Berbagai buah lokal menjadi bagian dari kuliner tradisional dan memiliki nilai ekonomi penting bagi masyarakat.",
+  kalimat: {
+    arab: "تَنْمُو الْفَوَاكِهُ الاسْتِوَائِيَّةُ فِي غَابَاتِ رِيجَانْغ",
+    indo: "Berbagai buah tropis tumbuh di hutan dan kebun Rejang.",
+    rejang: "Berbagai buah tropis tumbuh di imbo ngen kebun."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "خُضَارٌ",
+  latin: "Khudhaar",
+  indo: "sayur",
+  rejang: "sayur",
+  gambar: "",
+  budaya: "Masyarakat Rejang memiliki tradisi panjang dalam bercocok tanam sayuran. Berbagai jenis sayuran lokal yang unik menjadi bagian dari kuliner tradisional dan kekayaan biodiversitas pangan Rejang.",
+  kalimat: {
+    arab: "تَطْبُخُ الأُمُّ الْخُضَارَ الطَّازَجَةَ كُلَّ يَوْم",
+    indo: "Ibu memasak sayur segar setiap hari.",
+    rejang: "Indok masak sayur seger tiep bilei."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "أَكَلَ",
+  latin: "Akala",
+  indo: "makan",
+  rejang: "makan",
+  gambar: "",
+  budaya: "Tradisi makan bersama (makan) dalam budaya Rejang memiliki nilai sosial yang tinggi. Makan bersama adalah momen untuk mempererat hubungan keluarga dan masyarakat, serta sering menjadi bagian dari upacara adat.",
+  kalimat: {
+    arab: "نَأْكُلُ مَعًا الطَّعَامَ التَّقْلِيدِيَّ فِي الأَعْيَاد",
+    indo: "Kami makan bersama makanan tradisional saat hari raya.",
+    rejang: "Kito makan basamo makanan tradisional saat perayaan."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "شَرِبَ",
+  latin: "Syariba",
+  indo: "minum",
+  rejang: "minum",
+  gambar: "",
+  budaya: "Tradisi minum minuman tradisional seperti air aren dan teh herbal dalam budaya Rejang merupakan bagian dari keramahan dan cara menjaga kesehatan secara tradisional.",
+  kalimat: {
+    arab: "نَشْرَبُ الْمَاءَ الصَّافِيَ مِنَ الْيَنَابِيعِ الطَّبِيعِيَّة",
+    indo: "Kami minum air bersih dari sumber mata air alami.",
+    rejang: "Kito minum bioa bersih dari mata air alami."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "نَامَ",
+  latin: "Naama",
+  indo: "tidur",
+  rejang: "tido",
+  gambar: "",
+  budaya: "Pola tidur dalam tradisi Rejang diatur oleh norma adat yang mencerminkan kearifan lokal. Ada waktu-waktu tertentu yang tidak dianjurkan untuk tidur berdasarkan kepercayaan tradisional Rejang.",
+  kalimat: {
+    arab: "يَنَامُ الأَطْفَالُ بَعْدَ الظُّهْرِ لِأَخْذِ قِيلُولَة",
+    indo: "Anak-anak tidur siang setelah makan siang.",
+    rejang: "Anak-anok tido siang sesudah makan siang."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "قَامَ",
+  latin: "Qaama",
+  indo: "bangun",
+  rejang: "bangun",
+  gambar: "",
+  budaya: "Masyarakat Rejang yang beragama Islam terbiasa bangun lebih awal untuk melaksanakan sholat Subuh. Tradisi bangun pagi ini mengakar dalam budaya kerja keras masyarakat Rejang yang aktif sejak dini hari.",
+  kalimat: {
+    arab: "يَقُومُ الْمُسْلِمُونَ مُبَكِّرًا لِأَدَاءِ صَلَاةِ الْفَجْر",
+    indo: "Umat Muslim bangun pagi untuk melaksanakan sholat Subuh.",
+    rejang: "Umat Muslim bangun pagi untuk laksanakan sholat Subuh."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "لَعِبَ",
+  latin: "La'iba",
+  indo: "bermain",
+  rejang: "bemain",
+  gambar: "",
+  budaya: "Permainan tradisional (bemain) anak-anak Rejang kaya akan nilai-nilai edukatif. Melalui bermain, anak-anak belajar tentang kerja sama, kejujuran, dan berbagai nilai budaya Rejang secara tidak langsung.",
+  kalimat: {
+    arab: "يَلْعَبُ الأَطْفَالُ الأَلْعَابَ التَّقْلِيدِيَّةَ بَعْدَ الدِّرَاسَة",
+    indo: "Anak-anak bermain permainan tradisional setelah selesai belajar.",
+    rejang: "Anak-anok bemain permainan tradisional sesudah selesai belajar."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "دَرَسَ",
+  latin: "Darasa",
+  indo: "belajar",
+  rejang: "belajar",
+  gambar: "",
+  budaya: "Budaya belajar dalam masyarakat Rejang tidak hanya berlangsung di sekolah formal tetapi juga melalui proses pembelajaran tradisional (magang adat) di mana anak-anak belajar langsung dari orang tua dan sesepuh.",
+  kalimat: {
+    arab: "يَدْرُسُ الأَطْفَالُ اللُّغَةَ الْعَرَبِيَّةَ فِي الْمَدْرَسَة",
+    indo: "Anak-anak belajar bahasa Arab di sekolah.",
+    rejang: "Anak-anok belajar bahaso Arab di sekolah."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "قَرَأَ",
+  latin: "Qara-a",
+  indo: "membaca",
+  rejang: "maco",
+  gambar: "",
+  budaya: "Tradisi membaca dalam masyarakat Rejang tidak hanya membaca tulisan Latin, tetapi juga membaca aksara Kaganga yang merupakan warisan budaya leluhur. Kemampuan membaca aksara Rejang kini menjadi kebanggaan tersendiri.",
+  kalimat: {
+    arab: "يَقْرَأُ الطَّالِبُ الْكِتَابَ الدِّرَاسِيَّ بِجِدٍّ وَاهْتِمَام",
+    indo: "Murid membaca buku pelajaran dengan tekun.",
+    rejang: "Murik maco buku pelajaran make tekun."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "كَتَبَ",
+  latin: "Kataba",
+  indo: "menulis",
+  rejang: "nulis",
+  gambar: "",
+  budaya: "Keterampilan menulis dalam aksara Kaganga merupakan warisan budaya Rejang yang saat ini diajarkan kembali di sekolah-sekolah. Menulis dalam aksara tradisional adalah cara melestarikan identitas budaya.",
+  kalimat: {
+    arab: "يَكْتُبُ التَّلَامِيذُ دُرُوسَهُمْ فِي الْكُرَّاس",
+    indo: "Murid menulis pelajaran di buku tulis mereka.",
+    rejang: "Murik nulis pelajaran di buku tulis mereka."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَدْرَسَةٌ",
+  latin: "Madrasah",
+  indo: "sekolah",
+  rejang: "sikulah",
+  gambar: "",
+  budaya: "Sekolah (sikulah) dalam masyarakat Rejang menjadi tempat yang tidak hanya mengajarkan ilmu formal tetapi juga nilai-nilai budaya lokal. Saat ini banyak sekolah di Rejang Lebong yang mengintegrasikan budaya Rejang dalam kurikulum.",
+  kalimat: {
+    arab: "يَذْهَبُ الأَطْفَالُ إِلَى الْمَدْرَسَةِ كُلَّ يَوْم",
+    indo: "Anak-anak pergi ke sekolah setiap hari.",
+    rejang: "Anak-anok aleu ke sikulah tiep bilei."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مُعَلِّمٌ",
+  latin: "Mu'allim",
+  indo: "guru",
+  rejang: "guru",
+  gambar: "",
+  budaya: "Guru dalam budaya Rejang memiliki kedudukan yang sangat terhormat, setara dengan orang tua. Guru tidak hanya mengajar ilmu tetapi juga mendidik karakter dan menanamkan nilai-nilai budaya Rejang kepada murid-muridnya.",
+  kalimat: {
+    arab: "الْمُعَلِّمُ شَمْعَةٌ تُضِيءُ دَرْبَ الطُّلَّاب",
+    indo: "Guru adalah lilin yang menerangi jalan murid-muridnya.",
+    rejang: "Guru adalah lilin yang rangiang jalan murik-murik."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "تِلْمِيذٌ",
+  latin: "Tilmiidz",
+  indo: "murid",
+  rejang: "murik",
+  gambar: "",
+  budaya: "Murid (murik) dalam tradisi Rejang tidak hanya belajar di sekolah formal. Sistem pembelajaran tradisional mengharuskan murid untuk menghormati guru dan belajar dengan penuh kesungguhan.",
+  kalimat: {
+    arab: "يَحْتَرِمُ التِّلْمِيذُ مُعَلِّمَهُ وَيُطِيعُ تَوْجِيهَاتِه",
+    indo: "Murid menghormati guru dan mengikuti arahan dengan baik.",
+    rejang: "Murik hormati guru ngen ikut arahan make baik."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "صَدِيقٌ",
+  latin: "Shadiiq",
+  indo: "teman",
+  rejang: "kawau",
+  gambar: "",
+  budaya: "Persahabatan (kawau) dalam budaya Rejang dilandasi nilai-nilai saling menghormati dan tolong-menolong. Teman bermain dan belajar sejak kecil sering menjadi ikatan seumur hidup dalam masyarakat Rejang.",
+  kalimat: {
+    arab: "الصَّدِيقُ الصَّالِحُ يُسَاعِدُكَ فِي الدِّرَاسَة",
+    indo: "Teman yang baik kawau membantu kita dalam belajar.",
+    rejang: "Kawau yang baik temulung keto dalam belajar."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَسْجِدٌ",
+  latin: "Masjid",
+  indo: "masjid",
+  rejang: "masjid",
+  gambar: "",
+  budaya: "Masjid dalam kehidupan masyarakat Rejang bukan hanya tempat ibadah tetapi juga pusat kegiatan sosial dan pendidikan agama. Masjid menjadi tempat bertemunya nilai-nilai Islam dengan tradisi budaya lokal Rejang.",
+  kalimat: {
+    arab: "يُصَلِّي الْمُسْلِمُونَ فِي الْمَسْجِدِ خَمْسَ مَرَّاتٍ فِي الْيَوْم",
+    indo: "Umat Islam sholat di masjid lima waktu sehari.",
+    rejang: "Umat Islam sholat di masjid limang waktu sehari."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "دَاوُودُ الأَرْز",
+  latin: "Damurul Aruzz",
+  indo: "damar hutan",
+  rejang: "tongon kluluk",
+  gambar: "",
+  budaya: "Damar hutan (tongon kluluk) adalah getah pohon damar yang dipanen dari hutan Rejang. Damar telah menjadi komoditas perdagangan penting masyarakat Rejang sejak berabad-abad lalu dan merupakan bukti kearifan dalam memanfaatkan hasil hutan secara berkelanjutan.",
+  kalimat: {
+    arab: "يَجْمَعُ سُكَّانُ الْغَابَةِ الدَّاوُودَ مِنَ الأَشْجَارِ الضَّخْمَة",
+    indo: "Warga mengumpulkan damar dari pohon-pohon besar di hutan.",
+    rejang: "Warga kumpul damar dari pohon-pohon besar di imbo."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "تَعْوِيذَةُ الطِّفْل",
+  latin: "Ta'wiidzatul Thifl",
+  indo: "jimat bayi",
+  rejang: "kca benang mleuw",
+  gambar: "",
+  budaya: "Jimat bayi (kca benang mleuw) dalam tradisi Rejang adalah benda-benda yang dipercaya melindungi bayi dari gangguan roh jahat dan penyakit. Dalam perspektif Islam, praktik ini telah beradaptasi dengan penggunaan ayat-ayat Al-Quran.",
+  kalimat: {
+    arab: "يَحْمِلُ الطِّفْلُ تَعْوِيذَةً لِلْحِمَايَة",
+    indo: "Bayi diberi jimat pelindung sesuai tradisi Rejang.",
+    rejang: "Bayi bek jimat pelindung sesuai tradisi Rejang."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مَنْجَلٌ",
+  latin: "Manjal",
+  indo: "tangga sadap aren",
+  rejang: "tendeui",
+  gambar: "",
+  budaya: "Tendeui adalah tangga tradisional yang digunakan untuk memanjat pohon aren dalam proses penyadapan nira. Alat ini dibuat dengan teknik khusus menggunakan material alami yang ringan namun kuat.",
+  kalimat: {
+    arab: "يَسْتَخْدِمُ الصَّانِعُ السُّلَّمَ التَّقْلِيدِيَّ لِتَسَلُّقِ الأَشْجَار",
+    indo: "Penyadap menggunakan tangga tendeui untuk memanjat pohon aren.",
+    rejang: "Penyadap gunakan tendeui untuk panjat pohon aren."
+  }
+},
+{
+  kat: "Kearifan Lokal",
+  arab: "مِشْكَاةٌ",
+  latin: "Mishkaa",
+  indo: "rumah adat final",
+  rejang: "umea' adat",
+  gambar: "",
+  budaya: "Umea' adat adalah rumah panggung tradisional Rejang yang dibangun dengan teknik khusus dan material pilihan. Setiap bagian rumah memiliki fungsi adat dan filosofi budaya yang mendalam.",
+  kalimat: {
+    arab: "يَبْنِي أَهْلُ رِيجَانْغ بُيُوتَهُمْ بِحِرْفَةٍ عَالِيَة",
+    indo: "Masyarakat Rejang membangun umea' adat dengan keahlian tinggi.",
+    rejang: "Masyarakat Rejang bangun umea' adat make keahlian tinggi."
+  }
+}
+];
 ];
 
 // Jika ada data kosakata.js yang sudah ada, semua entri sudah tersedia di atas
