@@ -148,7 +148,7 @@ body::before{
   overflow:hidden;display:flex;flex-direction:column;
 }
 .krj-vcard-img{
-  height:150px;width:100%;position:relative;background:#eee;
+  height:350px;width:100%;position:relative;background:#eee;
 }
 .krj-vcard-img img{width:100%;height:100%;object-fit:cover;display:block;}
 .krj-vcard-cat{
