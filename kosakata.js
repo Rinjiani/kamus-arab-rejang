@@ -141,7 +141,7 @@ const kosakata = [
     kalimat: {
       arab: "وَجَّهَ الرَّجُلُ الْعَجُوزُ نَصِيحَةً إِلَى الْوَلَدِ الشَّابِّ: لَا تَكُنْ كَذَلِكَ!",
       indo: "Orang tua itu memberi himbauan kepada anak laki-laki muda itu, ”jangan seperti itu!”.",
-      rejang: "Tun tuwei o madeak magea sebong o, "dami ce’o, soak!"."
+      rejang: "Tun tuwei o madeak magea sebong o, \"dami ce'o, soak!\"."
     }
   },
   {
