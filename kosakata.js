@@ -2744,7 +2744,7 @@ const kosakata = [
     arab: "يَبْنِي أَهْلُ رِيجَانْغ بُيُوتَهُمْ بِحِرْفَةٍ عَالِيَة",
     indo: "Masyarakat Rejang membangun umea' adat dengan keahlian tinggi.",
     rejang: "Masyarakat Rejang bangun umea' adat make keahlian tinggi."
-  }
+  },
   {
     kat: "Kearifan Lokal",
     arab: "وَحْدَةُ الْقِيَاس",
