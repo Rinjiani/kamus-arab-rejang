@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panduan Transliterasi — Kamus Arab-Rejang</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Baloo+2:wght@500;700;800&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cream:#F8F1DE;
+    --paper:#FFFCF4;
+    --ink:#3B2416;
+    --maroon:#7B2E32;
+    --gold:#B8860B;
+    --gold-light:#E4C878;
+    --leaf:#4B6B4F;
+    --line:#E3D3A8;
+  }
+
+  *{box-sizing:border-box;}
+
+  body{
+    margin:0;
+    background:var(--cream);
+    color:var(--ink);
+    font-family:'Nunito', sans-serif;
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(123,46,50,0.08) 1px, transparent 0);
+    background-size: 22px 22px;
+  }
+
+  /* ---------- Header ---------- */
+  header{
+    position:relative;
+    text-align:center;
+    padding:56px 20px 64px;
+    overflow:hidden;
+    background:linear-gradient(180deg, var(--maroon) 0%, #602226 100%);
+    color:var(--paper);
+  }
+
+  header::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    opacity:0.15;
+    background-image:
+      repeating-linear-gradient(45deg, var(--gold-light) 0 2px, transparent 2px 24px),
+      repeating-linear-gradient(-45deg, var(--gold-light) 0 2px, transparent 2px 24px);
+  }
+
+  header .eyebrow{
+    position:relative;
+    letter-spacing:.18em;
+    text-transform:uppercase;
+    font-size:.72rem;
+    font-weight:700;
+    color:var(--gold-light);
+  }
+
+  header h1{
+    position:relative;
+    font-family:'Baloo 2', sans-serif;
+    font-size:clamp(1.8rem, 4vw, 2.6rem);
+    margin:10px 0 6px;
+  }
+
+  header .arabic-sample{
+    position:relative;
+    font-family:'Amiri', serif;
+    font-size:2rem;
+    color:var(--gold-light);
+    margin-bottom:10px;
+  }
+
+  header p{
+    position:relative;
+    max-width:560px;
+    margin:0 auto;
+    font-size:1rem;
+    line-height:1.6;
+    color:#F1E4C6;
+  }
+
+  /* ---------- Layout ---------- */
+  main{
+    max-width:920px;
+    margin:-32px auto 0;
+    padding:0 20px 60px;
+    position:relative;
+  }
+
+  section.card{
+    background:var(--paper);
+    border:1px solid var(--line);
+    border-radius:18px;
+    padding:28px 24px;
+    margin-bottom:28px;
+    box-shadow:0 10px 30px rgba(123,46,50,0.08);
+  }
+
+  h2{
+    font-family:'Baloo 2', sans-serif;
+    color:var(--maroon);
+    font-size:1.35rem;
+    margin-top:0;
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+
+  h2 .num{
+    font-family:'Amiri', serif;
+    font-size:1.1rem;
+    background:var(--gold);
+    color:var(--paper);
+    width:34px;height:34px;
+    border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+    flex-shrink:0;
+  }
+
+  p.lead{
+    line-height:1.7;
+    color:#5a4633;
+  }
+
+  /* ---------- Letter grid ---------- */
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(140px, 1fr));
+    gap:12px;
+    margin-top:18px;
+  }
+
+  .letter-card{
+    background:var(--cream);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:14px 10px;
+    text-align:center;
+    transition:transform .15s ease, box-shadow .15s ease;
+  }
+
+  .letter-card:hover, .letter-card:focus-within{
+    transform:translateY(-3px);
+    box-shadow:0 8px 18px rgba(184,134,11,0.25);
+    border-color:var(--gold);
+  }
+
+  .letter-card .arabic{
+    font-family:'Amiri', serif;
+    font-size:2.1rem;
+    color:var(--maroon);
+    line-height:1;
+  }
+
+  .letter-card .latin{
+    display:inline-block;
+    margin-top:8px;
+    font-family:'Baloo 2', sans-serif;
+    font-weight:700;
+    color:var(--leaf);
+    background:#fff;
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:2px 10px;
+    font-size:.95rem;
+  }
+
+  .letter-card .note{
+    margin-top:6px;
+    font-size:.76rem;
+    color:#7a6a52;
+    line-height:1.35;
+  }
+
+  /* ---------- Harakat table ---------- */
+  table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:16px;
+    font-size:.95rem;
+  }
+
+  th, td{
+    text-align:left;
+    padding:10px 12px;
+    border-bottom:1px solid var(--line);
+  }
+
+  th{
+    color:var(--maroon);
+    font-family:'Baloo 2', sans-serif;
+    font-size:.85rem;
+    text-transform:uppercase;
+    letter-spacing:.04em;
+  }
+
+  td.arabic-cell{
+    font-family:'Amiri', serif;
+    font-size:1.4rem;
+    color:var(--maroon);
+  }
+
+  /* ---------- Tips ---------- */
+  .tip{
+    display:flex;
+    gap:12px;
+    background:#F2E9D2;
+    border-left:4px solid var(--gold);
+    border-radius:10px;
+    padding:14px 16px;
+    margin-top:16px;
+    font-size:.92rem;
+    line-height:1.6;
+  }
+
+  .tip span.icon{ font-size:1.3rem; }
+
+  footer{
+    text-align:center;
+    padding:30px 20px 50px;
+    color:#8a7355;
+    font-size:.85rem;
+  }
+
+  a.back{
+    display:inline-block;
+    margin-top:4px;
+    color:var(--maroon);
+    font-weight:700;
+    text-decoration:none;
+    border-bottom:2px solid var(--gold);
+  }
+
+  @media (max-width:480px){
+    header{padding:44px 16px 56px;}
+    section.card{padding:20px 16px;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Kamus Digital Arab–Rejang–Indonesia</div>
+  <div class="arabic-sample">أ ب ت ث ج</div>
+  <h1>🌺 Panduan Transliterasi</h1>
+  <p>Belajar cara membaca huruf Arab (hijaiyah) ke dalam ejaan Latin, supaya kamu bisa membunyikan kata-kata Arab dengan benar walaupun belum lancar membaca huruf aslinya.</p>
+</header>
+
+<main>
+
+  <section class="card">
+    <h2><span class="num">؟</span>Apa itu Transliterasi?</h2>
+    <p class="lead">
+      Transliterasi adalah cara menuliskan bunyi huruf Arab memakai huruf Latin (a, b, c, ...) agar lebih mudah dibaca oleh orang yang belum hafal huruf hijaiyah. Contoh: kata كِتَاب dituliskan menjadi <strong>kitāb</strong>, yang berarti "buku".
+    </p>
+    <div class="tip">
+      <span class="icon">💡</span>
+      <span>Transliterasi bukan pengganti belajar membaca Arab — ini hanya <em>jembatan</em> supaya kamu tetap bisa melafalkan kata sambil terus belajar huruf aslinya.</span>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2><span class="num">أ</span>Huruf Hijaiyah &amp; Transliterasinya</h2>
+    <p class="lead">Berikut 28 huruf hijaiyah beserta cara penulisan Latin dan tips membacanya.</p>
+    <div class="grid" id="letterGrid"></div>
+  </section>
+
+  <section class="card">
+    <h2><span class="num">ً</span>Tanda Baca Harakat</h2>
+    <p class="lead">Harakat adalah tanda kecil di atas/bawah huruf yang menentukan bunyi vokalnya.</p>
+    <table>
+      <thead>
+        <tr><th>Contoh</th><th>Nama</th><th>Bunyi</th><th>Keterangan</th></tr>
+      </thead>
+      <tbody id="harakatBody"></tbody>
+    </table>
+  </section>
+
+  <section class="card">
+    <h2><span class="num">✓</span>Tips Membaca</h2>
+    <div class="tip"><span class="icon">🔤</span><span>Huruf dengan tanda petik satu ( ' ) seperti pada <strong>'ain</strong> dibaca dari tenggorokan dalam — coba dengarkan langsung dari gurumu.</span></div>
+    <div class="tip"><span class="icon">🔠</span><span>Huruf tebal seperti <strong>sh, dh, th, zh</strong> diucapkan dengan lidah lebih menekan langit-langit dibanding huruf biasa.</span></div>
+    <div class="tip"><span class="icon">📖</span><span>Latihan terbaik adalah membaca pelan-pelan sambil mendengarkan pengucapan aslinya, jangan hanya menghafal tulisan Latinnya saja.</span></div>
+  </section>
+
+</main>
+
+<footer>
+  🌺 Kamus Digital Arab–Rejang–Indonesia · Berbasis Kebudayaan Rejang Lebong · Bengkulu<br>
+  <a class="back" href="index.html">← Kembali ke Beranda</a>
+</footer>
+
+<script>
+  const huruf = [
+    ["ا","a","seperti a pada 'apel'"],
+    ["ب","b","seperti b pada 'bola'"],
+    ["ت","t","seperti t pada 'tali'"],
+    ["ث","ts","mirip th tebal"],
+    ["ج","j","seperti j pada 'jalan'"],
+    ["ح","ḥ","h dari tenggorokan dalam"],
+    ["خ","kh","seperti kh pada 'khusus'"],
+    ["د","d","seperti d pada 'duduk'"],
+    ["ذ","dz","mirip z lembut"],
+    ["ر","r","r digulung ringan"],
+    ["ز","z","seperti z pada 'zebra'"],
+    ["س","s","seperti s pada 'satu'"],
+    ["ش","sy","seperti sy pada 'syukur'"],
+    ["ص","ṣ","s tebal, lidah ditekan"],
+    ["ض","ḍ","d tebal"],
+    ["ط","ṭ","t tebal"],
+    ["ظ","ẓ","z tebal"],
+    ["ع","'","bunyi dari tenggorokan dalam"],
+    ["غ","gh","mirip r Prancis"],
+    ["ف","f","seperti f pada 'foto'"],
+    ["ق","q","k dari pangkal tenggorokan"],
+    ["ك","k","seperti k pada 'kaki'"],
+    ["ل","l","seperti l pada 'lari'"],
+    ["م","m","seperti m pada 'mata'"],
+    ["ن","n","seperti n pada 'nasi'"],
+    ["و","w","seperti w pada 'waktu'"],
+    ["ه","h","seperti h pada 'hari'"],
+    ["ء","'","hentian ringan (hamzah)"],
+    ["ي","y","seperti y pada 'yakin'"]
+  ];
+
+  const grid = document.getElementById("letterGrid");
+  huruf.forEach(([arab, latin, note]) => {
+    grid.innerHTML += `
+      <div class="letter-card" tabindex="0">
+        <div class="arabic">${arab}</div>
+        <div class="latin">${latin}</div>
+        <div class="note">${note}</div>
+      </div>`;
+  });
+
+  const harakat = [
+    ["بَ","Fathah"," a "," garis kecil di atas huruf, dibaca a"],
+    ["بِ","Kasrah"," i "," garis kecil di bawah huruf, dibaca i"],
+    ["بُ","Dammah"," u "," tanda seperti koma di atas huruf, dibaca u"],
+    ["بْ","Sukun"," (mati) "," huruf tidak berbunyi vokal"],
+    ["بًّ","Tasydid"," (ganda) "," huruf dibaca dobel/ditekan"]
+  ];
+
+  const hb = document.getElementById("harakatBody");
+  harakat.forEach(([contoh, nama, bunyi, ket]) => {
+    hb.innerHTML += `
+      <tr>
+        <td class="arabic-cell">${contoh}</td>
+        <td>${nama}</td>
+        <td>${bunyi}</td>
+        <td>${ket}</td>
+      </tr>`;
+  });
+</script>
+
+</body>
+</html>
