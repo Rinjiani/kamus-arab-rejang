@@ -24,7 +24,7 @@ const kosakata = [
     latin: "Khathth",
     indo: "aksara (kaganga)",
     rejang: "aksara ulu",
-    gambar: "",
+    gambar: "assets/images/kaganga.png",
     budaya: "Aksara Kaganga atau aksara Ulu adalah sistem tulisan tradisional suku Rejang yang telah digunakan sejak berabad-abad lalu. Aksara ini merupakan warisan budaya tak benda yang kini dilestarikan dan diajarkan di sekolah-sekolah di Rejang Lebong.",
     kalimat: {
       arab: "الْخَطُّ الْكَاغَانْغَا هُوَ تُرَاثٌ ثَقَافِيٌّ لِشَعْبِ رِيجَانْغ",
@@ -38,7 +38,7 @@ const kosakata = [
     latin: "Harf",
     indo: "kaganga",
     rejang: "kaganga",
-    gambar: "",
+    gambar: "assets/images/kaganga.png",
     budaya: "Kaganga adalah nama lain untuk aksara Ulu Rejang, diambil dari tiga huruf pertama dalam sistem abjad aksara tersebut, mirip dengan penamaan 'ABC' dalam alfabet Latin.",
     kalimat: {
       arab: "كَاغَانْغَا هُوَ اسْمٌ لِحُرُوفِ رِيجَانْغ الْتَّقْلِيدِيَّة",
@@ -52,7 +52,7 @@ const kosakata = [
     latin: "Walad",
     indo: "anak",
     rejang: "anok",
-    gambar: "",
+    gambar: "assets/images/anak.png",
     budaya: "Kata 'anok' dalam bahasa Rejang merujuk pada anak secara umum. Dalam budaya Rejang, anak sangat dihormati dan dijaga karena merupakan penerus marga dan keturunan.",
     kalimat: {
       arab: "الْوَلَدُ يَلْعَبُ فِي الْحَدِيقَة",
@@ -66,7 +66,7 @@ const kosakata = [
     latin: "Yatiim",
     indo: "anak yatim piatu",
     rejang: "anok lumang",
-    gambar: "",
+    gambar: "assets/images/Anak yatim piatu.png",
     budaya: "Dalam tradisi Rejang, anak yatim piatu mendapat perhatian khusus dari masyarakat adat dan keluarga besar marga. Terdapat tradisi pengangkatan anak (adopsi adat) untuk melindungi anak-anak yang tidak memiliki orang tua.",
     kalimat: {
       arab: "الْيَتِيمُ يَحْتَاجُ إِلَى رِعَايَةِ الْمُجْتَمَع",
@@ -80,7 +80,7 @@ const kosakata = [
     latin: "Nasab Ilaahiy",
     indo: "anak keturunan dewa",
     rejang: "anok sanggeui",
-    gambar: "",
+    gambar: "assets/images/anak keturunan dewa.png",
     budaya: "Konsep 'anok sanggeui' dalam kepercayaan tradisional Rejang merujuk pada anak yang diyakini memiliki keistimewaan atau keturunan dari leluhur yang dianggap suci. Kepercayaan ini berkaitan dengan sistem kepercayaan animisme yang pernah berkembang di masyarakat Rejang sebelum masuknya Islam.",
     kalimat: {
       arab: "فِي الثَّقَافَةِ الْقَدِيمَةِ، يُعْتَقَدُ أَنَّ بَعْضَ الأَطْفَالِ لَهُمْ نَسَبٌ إِلَهِيٌّ",
@@ -94,7 +94,7 @@ const kosakata = [
     latin: "Wahiid",
     indo: "anak tunggal",
     rejang: "anok temanang imeu",
-    gambar: "",
+    gambar: "assets/images/anak tunggal.png",
     budaya: "Anak tunggal dalam budaya Rejang memiliki tanggung jawab besar untuk meneruskan garis keturunan marga orang tuanya.",
     kalimat: {
       arab: "هُوَ وَحِيدٌ فِي عَائِلَتِه",
