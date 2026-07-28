@@ -2747,7 +2747,6 @@ const kosakata = [
   }
 }
 ];
-];
 
 // Jika ada data kosakata.js yang sudah ada, semua entri sudah tersedia di atas
 console.log(`=== DATABASE KOSAKATA SIAP ===`);
