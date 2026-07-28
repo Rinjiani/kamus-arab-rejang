@@ -60,7 +60,28 @@ body::before{
 .krj-brand{display:flex;align-items:center;gap:14px;}
 .krj-title{font-size:18px;font-weight:800;}
 .krj-subtitle{font-size:11px;opacity:0.9;letter-spacing:0.03em;}
-
+.krj-header-inner{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  gap:12px;
+}
+.krj-nav-link{
+  color:#fff;
+  text-decoration:none;
+  font-weight:700;
+  font-size:12.5px;
+  padding:8px 16px;
+  border:2px solid rgba(255,255,255,0.5);
+  border-radius:20px;
+  transition:background .15s ease, transform .15s ease;
+  white-space:nowrap;
+}
+.krj-nav-link:hover{
+  background:rgba(255,255,255,0.15);
+  transform:translateY(-1px);
+}
 /* ---------- MAIN / BERANDA ---------- */
 .krj-main{max-width:1000px;margin:0 auto;padding:26px 20px 60px;}
 
