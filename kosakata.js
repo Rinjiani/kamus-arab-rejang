@@ -318,7 +318,7 @@ const kosakata = [
     latin: "Ikhwah Min Ummun Waahidah",
     indo: "saudara satu ibu",
     rejang: "spasuak kuyu'",
-    gambar: "",
+    gambar: "assets/images/saudara satu ibu.png",
     budaya: "Saudara satu ibu (spasuak kuyu') dalam adat Rejang memiliki ikatan yang sangat kuat. Mereka diwajibkan untuk saling menjaga dan membantu, terutama dalam acara-acara adat.",
     kalimat: {
       arab: "إِخْوَتِي مِنْ أُمٍّ وَاحِدَةٍ يَجْتَمِعُونَ فِي الأَعْيَاد",
