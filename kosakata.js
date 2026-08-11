@@ -108,7 +108,7 @@ const kosakata = [
     latin: "Shihir",
     indo: "saudara ipar",
     rejang: "be'eng",
-    gambar: "",
+    gambar: "assets/images/saudara ipar.png",
     budaya: "Hubungan ipar dalam adat Rejang diatur secara ketat. Saudara ipar memiliki peran penting dalam upacara adat, terutama dalam pernikahan dan ritual-ritual keluarga besar.",
     kalimat: {
       arab: "صِهْرِي رَجُلٌ طَيِّبٌ وَمُحْتَرَمٌ",
@@ -122,7 +122,7 @@ const kosakata = [
     latin: "Tahiyyah",
     indo: "sapaan bieu",
     rejang: "bieu",
-    gambar: "",
+    gambar: "assets/images/sapaan.png",
     budaya: "'Bieu' adalah sapaan khas suku Rejang yang digunakan dalam percakapan sehari-hari. Sapaan ini mencerminkan keramahan dan kekerabatan yang erat dalam masyarakat Rejang.",
     kalimat: {
       arab: "نَقُولُ تَحِيَّةً لِلضُّيُوفِ عِنْدَ وُصُولِهِم",
