@@ -574,12 +574,12 @@ const kosakata = [
     latin: "Raqsh Taqliidiy",
     indo: "tarian",
     rejang: "kejeui",
-    gambar: "",
+    gambar: "assets/images/tarian.png",
     budaya: "Kejeui adalah tarian tradisional khas suku Rejang yang ditampilkan dalam berbagai upacara adat. Gerakan tarian ini mencerminkan nilai-nilai kehidupan masyarakat Rejang seperti keanggunan, keberanian, dan keramahan.",
     kalimat: {
       arab: "الرَّقْصُ التَّقْلِيدِيُّ يُعَبِّرُ عَنْ ثَقَافَةِ الشَّعْب",
       indo: "Tarian tradisional mencerminkan budaya masyarakat Rejang.",
-      rejang: "Kejeui mencerminkan budaya suku Rejang."
+      rejang: "Kejei asli kunai sukeu Jang."
     }
   },
   {
@@ -588,12 +588,12 @@ const kosakata = [
     latin: "Muusiiqaa Taqliidiyyah",
     indo: "gamelan",
     rejang: "klitang",
-    gambar: "",
+    gambar: "assets/images/gamelan.png",
     budaya: "Klitang adalah alat musik tradisional Rejang yang menjadi bagian dari ansambel gamelan khas daerah ini. Klitang dimainkan dalam berbagai upacara adat dan pertunjukan seni budaya Rejang.",
     kalimat: {
       arab: "تُعْزَفُ الْمُوسِيقَى التَّقْلِيدِيَّةُ فِي حَفَلَاتِ الأَعْرَاس",
       indo: "Gamelan klitang dimainkan dalam upacara pernikahan adat.",
-      rejang: "Klitang dimainkan dalam upacara bimbang."
+      rejang: "Klitang tenabuak nak lem acara nikeak."
     }
   },
   {
@@ -602,12 +602,12 @@ const kosakata = [
     latin: "Naay",
     indo: "suling bambu (dekut)",
     rejang: "dekut",
-    gambar: "",
+    gambar: "assets/images/dekut.png",
     budaya: "Dekut adalah suling bambu khas Rejang yang menghasilkan suara merdu dan khas. Alat musik ini terbuat dari bambu pilihan dan dimainkan dengan teknik pernapasan khusus yang diwariskan turun-temurun.",
     kalimat: {
       arab: "يَعْزِفُ الشَّابُّ عَلَى النَّايِ الْخَيْزُرَانِيِّ",
       indo: "Pemuda itu memainkan suling bambu dekut dengan indah.",
-      rejang: "Bujang mainkan dekut make indah."
+      rejang: "Sebong o temiup dekut gayau nien."
     }
   },
   {
@@ -616,12 +616,12 @@ const kosakata = [
     latin: "Mizmaaar",
     indo: "suling bambu (krilu)",
     rejang: "krilu",
-    gambar: "",
+    gambar: "assets/images/krilu.png",
     budaya: "Krilu adalah jenis suling bambu Rejang yang berbeda dari dekut dalam hal ukuran dan karakter suaranya. Krilu biasanya dimainkan dalam acara-acara santai dan hiburan masyarakat.",
     kalimat: {
       arab: "صَوْتُ الْمِزْمَارِ يُرِيحُ الْقُلُوبَ",
       indo: "Suara suling krilu menenangkan hati.",
-      rejang: "Suaro krilu menenangkan hati."
+      rejang: "Sa’ei krilu temnang atei."
     }
   },
   {
@@ -630,12 +630,12 @@ const kosakata = [
     latin: "Ughniyyah",
     indo: "nyanyian",
     rejang: "sambeui",
-    gambar: "",
+    gambar: "assets/images/sambeui.png",
     budaya: "Sambeui adalah nyanyian tradisional khas Rejang yang biasanya berisi syair-syair tentang alam, kehidupan, dan nilai-nilai budaya. Sambeui dinyanyikan dalam berbagai kesempatan mulai dari pesta adat hingga saat bekerja di ladang.",
     kalimat: {
       arab: "الأُغْنِيَةُ التَّقْلِيدِيَّةُ تَحْمِلُ مَعَانِيَ ثَقَافِيَّةً عَمِيقَة",
       indo: "Nyanyian sambeui mengandung makna budaya yang mendalam.",
-      rejang: "Sambeui berisikandung makno budayo yang dalam."
+      rejang: "Sambeui o tumwan artei dik lem."
     }
   },
   {
@@ -644,12 +644,12 @@ const kosakata = [
     latin: "Harakatur Raqs",
     indo: "gerakan tari",
     rejang: "punjung",
-    gambar: "",
+    gambar: "assets/images/punjung.png",
     budaya: "Setiap gerakan dalam tarian Rejang memiliki makna dan filosofi tersendiri. Gerakan tangan, kaki, dan tubuh dalam tarian mencerminkan hubungan manusia dengan alam dan sesama.",
     kalimat: {
       arab: "حَرَكَةُ الرَّقْصِ التَّقْلِيدِيِّ تَحْمِلُ مَعْنًى عَمِيقًا",
       indo: "Gerakan tari tradisional mengandung makna yang dalam.",
-      rejang: "Gerakang tari mengandung makno yang dalam."
+      rejang: "Punjung o bisei artei dik lem."
     }
   },
   {
@@ -658,12 +658,12 @@ const kosakata = [
     latin: "Funuunud Difaa'",
     indo: "seni bela diri",
     rejang: "sterlak",
-    gambar: "",
+    gambar: "assets/images/sterlak.png",
     budaya: "Sterlak adalah seni bela diri tradisional suku Rejang yang tidak hanya melatih kekuatan fisik tetapi juga mental dan spiritual. Seni bela diri ini diwariskan dari generasi ke generasi sebagai bagian dari tradisi keprajuritan Rejang.",
     kalimat: {
       arab: "يَتَعَلَّمُ الشَّبَابُ فُنُونَ الدِّفَاعِ التَّقْلِيدِيَّة",
       indo: "Para pemuda belajar seni bela diri tradisional sterlak.",
-      rejang: "Para bujang belajar sterlak."
+      rejang: "Tun u’ei belajea besile’ ilmeu sterlak."
     }
   },
   {
@@ -672,12 +672,12 @@ const kosakata = [
     latin: "Lu'bah Taqliidiyyah",
     indo: "permainan anak ce i ce",
     rejang: "ce i ce",
-    gambar: "",
+    gambar: "assets/images/ce i ce.png",
     budaya: "Ce i ce adalah permainan tradisional anak-anak Rejang yang dimainkan secara berkelompok. Permainan ini mengajarkan nilai kerja sama, sportivitas, dan kebersamaan sejak usia dini.",
     kalimat: {
       arab: "يَلْعَبُ الأَطْفَالُ الأَلْعَابَ التَّقْلِيدِيَّةَ بَعْدَ الْمَدْرَسَة",
       indo: "Anak-anak bermain ce i ce setelah pulang sekolah.",
-      rejang: "Anok-anok bemain ce i ce sesudah sikulah."
+      rejang: "Titik menitik busik ce i ce belek kunai skulah."
     }
   },
   {
